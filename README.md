@@ -1,12 +1,12 @@
-#Student Performance Predictor
+# Student Performance Predictor
 
-##Overview
+## Overview
 
 This project uses Machine Learning to predict a student's Performance Index based on various academic and lifestyle factors. The model is trained using Linear Regression and can estimate performance from student-related data.
 
-#Dataset Features
+# Dataset Features
 
-##Input Features
+## Input Features
 
 - Hours Studied
 - Previous Scores
@@ -14,11 +14,11 @@ This project uses Machine Learning to predict a student's Performance Index base
 - Sleep Hours
 - Sample Question Papers Practiced
 
-##Target Variable
+## Target Variable
 
 - Performance Index
 
-##Technologies Used
+## Technologies Used
 
 - Python
 - Pandas
@@ -27,7 +27,7 @@ This project uses Machine Learning to predict a student's Performance Index base
 - Matplotlib
 - Google Colab
 
-##Project Workflow
+## Project Workflow
 
 1. Load the dataset from a CSV file.
 2. Explore and analyze the data.
@@ -37,11 +37,11 @@ This project uses Machine Learning to predict a student's Performance Index base
 6. Evaluate model performance using Mean Absolute Error (MAE).
 7. Predict the Performance Index for new student data.
 
-##Machine Learning Model
+## Machine Learning Model
 
 - Linear Regression
 
-##Results
+## Results
 
 The model successfully predicts student performance using study habits, previous academic records, extracurricular participation, sleep patterns, and practice levels.
 
